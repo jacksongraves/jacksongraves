@@ -1,28 +1,16 @@
 ### Hi there 👋
-
 <!-- ![A Full-Stack Web Devloper](/banner/banner.png) -->
 
 <!-- ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, Im Hector -->
 
+<!-- Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen! -->
 
-
-<!-- Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m a Developer at [Jiffy](https://jiffyondemand.com/)
-- 🌱 I’m currently growing my skills and always wanting to get better.
-- 👯 I’m looking to collaborate on anything Javascript, Ruby or Go!
-- 💬 Ask me about myself or my code
+- :briefcase: I'm an engineer at Shell
+- 🔭 I’m currently working on the MERN stack
+- 💬 Ask me about algorithmic trading
+- 👯 I’m looking to collaborate on anything with React & Node
 - 📫 How to reach me: jackson.graves@me.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a proud owner of an MPC and enjoy sampling and making beats on my free time(i have none right now) -->
+- ⚡ Fun fact: I visited 15 countries in 1 year
 
 ### Languages
 [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]() [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>]() [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>]() [<img src ="https://img.shields.io/badge/python-%3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>]() [<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>]()
@@ -46,3 +34,5 @@
 ]()
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- https://simpleicons.org/?q=graph -->
