@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+
+### Languages
+:star::star::star::star::star: [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]() [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>]() [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>]() [<img src ="https://img.shields.io/badge/python-%3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>]() [<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>]()
+
+### Databases
+
+[<img src ="https://img.shields.io/badge/MongoDB-%23316192.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=47A248"/>]() [<img src ="https://img.shields.io/badge/MySQL-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1"/>]()  [<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>]()
+
+
+
+### Frameworks
+
+[<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]() [<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()  [<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]() [<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>]()  [<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>]()
 <!--
 **jacksongraves/jacksongraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,18 +39,10 @@ Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love
 - 🌱 I’m currently growing my skills and always wanting to get better.
 - 👯 I’m looking to collaborate on anything Javascript, Ruby or Go!
 - 💬 Ask me about myself or my code
-- 📫 How to reach me: hectorpwns@gmail.com
+- 📫 How to reach me: jackson.graves@me.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a proud owner of an MPC and enjoy sampling and making beats on my free time(i have none right now)
 
-
-### Languages I love
-
-[<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]() [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]() [<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>]() [<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>]() [<img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>]() [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>]() [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>]() [<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>]()
-
-### Enjoyable Frameworks:
-
-[<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]() [<img src="https://img.shields.io/badge/gatsby%20-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />]() [<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]() [<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>]() [<img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>]() [<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>]() [<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>]() [<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>]()
 
 ### Tools
 
