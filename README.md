@@ -180,8 +180,7 @@
 
 ### Currently learning
 
-[
-]() [<img src="https://img.shields.io/badge/graphql%20-%23121011.svg?&style=for-the-badge&logo=graphql&logoColor=white&color=E10098"/>
+[<img src="https://img.shields.io/badge/graphql%20-%23121011.svg?&style=for-the-badge&logo=graphql&logoColor=white&color=E10098"/>
 ]()
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -193,7 +192,7 @@ INDUSTRY KNOWLEDGE: RESTful Web Services, Functional Programming, Object Orie
 LANGUAGES: English, Spanish
 INTERESTS: Project Management, Agile Methodology, SCRUM, DevOps, CI/CD, UI/UX, Research, Interaction Design -->
 
-<style>
+<!-- <style>
 	table {
 		table-layout: fixed;
 		width: 100%;
@@ -222,4 +221,4 @@ INTERESTS: Project Management, Agile Methodology, SCRUM, DevOps, CI/CD, UI
 	tr.c2 td {
 		width: 50%;
 	}
-</style>
+</style> -->

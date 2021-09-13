@@ -1,0 +1,28 @@
+table {
+	table-layout: fixed;
+	width: 100%;
+}
+td {
+	text-align: center;
+}
+tr.c8 td {
+	width: 12.5%;
+}
+tr.c7 td {
+	width: 14.3%;
+}
+tr.c6 td {
+	width: 16.7%;
+}
+tr.c5 td {
+	width: 20%;
+}
+tr.c4 td {
+	width: 25%;
+}
+tr.c3 td {
+	width: 33%;
+}
+tr.c2 td {
+	width: 50%;
+}
