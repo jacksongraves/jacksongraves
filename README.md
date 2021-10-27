@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!-- ![A Full-Stack Web Devloper](/banner/banner.png) -->
-
-<!-- ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, Im Hector -->
+### Jackson Graves
 
 <!-- Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen! -->
 
@@ -224,15 +220,6 @@
 ### Currently learning
 
 [<img src="https://img.shields.io/badge/graphql%20-%23121011.svg?&style=for-the-badge&logo=graphql&logoColor=white&color=E10098"/>]()
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- PROGRAMMING LANGUAGES: Javascript, Ruby, SQL, HTML5, CSS3
-FRAMEWORKS LIBRARIES / ENVIRONMENTS: React.js, Node.js, Express.js, Knex.js, Rails, ActiveRecord, jQuery, Webpack, Material UI, Bootstrap, Bulma, Mocha, Chai
-DATABASES, SYSTEMS, CMS: Postgres, Database Design, MongoDB, Heroku, Netlify, Git, Command Line
-INDUSTRY KNOWLEDGE: RESTful Web Services, Functional Programming, Object Oriented Programming, Technical Documentation, BDD, TDD
-LANGUAGES: English, Spanish
-INTERESTS: Project Management, Agile Methodology, SCRUM, DevOps, CI/CD, UI/UX, Research, Interaction Design -->
 
 <style>
 	td {
